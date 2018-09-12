@@ -1,3 +1,5 @@
+/* Apply normal binary search on the value next to A and try to find the minimum value for the B*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
