@@ -1,3 +1,6 @@
+/* I have build a segment tree that will answer the  gcd of the range in O(logn) per query . Now what i want is to check if this gcd is
+present in that range or not , if it is present then we can add it to the answer for that i have created an array that will be like a
+sliding window and we will update the array accordingly and see whether the gcd is present or not in O(1).*/
 #include <bits/stdc++.h>
 using namespace std;
 
