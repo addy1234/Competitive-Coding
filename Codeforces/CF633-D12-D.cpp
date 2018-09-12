@@ -1,3 +1,7 @@
+// My idea :-
+/*Iterate over all the possible two start values in the array that is O(n^2) combinations and for all of them compute the max 
+sequence that is possible with them*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
