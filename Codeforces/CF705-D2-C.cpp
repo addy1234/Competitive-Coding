@@ -1,3 +1,5 @@
+/*Using insert and erase function in a set we can very easily solved it by just doing what is to be told to do.*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
